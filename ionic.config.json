@@ -1,0 +1,7 @@
+{
+  "name": "ionic-datetime-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
