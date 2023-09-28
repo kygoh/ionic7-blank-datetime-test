@@ -9,11 +9,10 @@ import type { DatetimeChangeEventDetail } from '@ionic/angular';
 export class HomePage implements OnInit {
 
   maxDate = '';
-  value: string | undefined;
+  value: null | string | undefined;
 
   constructor(
   ) {
-    this.value = undefined;
   }
 
   ngOnInit() {
